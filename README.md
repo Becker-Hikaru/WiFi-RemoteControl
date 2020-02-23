@@ -1,5 +1,5 @@
 # WiFi_ArmCrawler
-ESP32開発ボードとタミヤのアームクローラー工作セットを使ったWiFiラジコンのArduinoスケッチを公開しています。
+ESP32開発ボードとタミヤのアームクローラー工作セットを使ったWiFiラジコン（iPhoneで操作する）のArduinoスケッチを公開しています。
 ## 使用パーツ
 1. タミヤ アームクローラー工作セット[（メーカー公式）](https://www.tamiya.com/japan/products/70211/)
 2. タミヤ ツインモーターギヤーボックス[（メーカー公式）](https://www.tamiya.com/japan/products/70168/)
