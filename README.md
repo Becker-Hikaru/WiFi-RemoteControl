@@ -1,3 +1,3 @@
 # WiFi-RemoteControl
 
-ESP32開発ボードを使ったWiFiラジコンのArduinoスケッチを公開しています。
+ESP32開発ボードとタミヤ工作キットを使ったWiFiラジコンのスケッチを公開しています。
